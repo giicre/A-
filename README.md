@@ -8,20 +8,16 @@
 
 ### [影视百科秀](https://www.douyin.com/user/MS4wLjABAAAASGTKYzl-BVROAYX_5-RNtYGfLe4IkCJshuPYQ2vRoUvhVaw_BNm76LhdJAlyFUs6?extra_params=%7B%22search_id%22%3A%2220210701165638010211178085283D170B%22%2C%22search_result_id%22%3A%222541666561965256%22%2C%22search_keyword%22%3A%22%E5%BD%B1%E8%A7%86%E7%99%BE%E7%A7%91%E7%A7%80%22%2C%22search_type%22%3A%22user%22%7D&enter_method=search_result&enter_from=search_result)
 水印：无，可搬运  
-
-
 垂直度：5星,更新老电视剧解说  
 是否机器声：是  
 本月涨粉：11w  
 粉丝量：63w  
-![](IMG_1219.png)
 ### [止戈电影](https://www.douyin.com/user/MS4wLjABAAAA8PXwaC9uh3jxkRhwT11lkcM5l3f_SYdDh3eb01qi-YI?enter_method=video_title&author_id=75379708557&group_id=6979198638698417421&log_pb=%7B%22impr_id%22%3A%22021625130908314fdbddc0100fff0030a124c860000000bfeef54%22%7D&enter_from=video_detail)
 水印:无，可搬运  
 垂直度:4星，偏悬疑  
 是否机器声:像是网站真人配音，待研究  
 本月涨粉:9w  
 粉丝量:120w  
-![](IMG_1220.png)
 ### [老白影视](https://www.douyin.com/video/6958257561179131166?previous_page=others_homepage)
 水印：部分有，左上角，裁切难度低，可搬运  
 垂直度：2星  
@@ -30,6 +26,8 @@
 粉丝量：155w  
 ![](IMG_1221.png)
 ### [刘哔电影](https://www.douyin.com/video/6963242690855062815?previous_page=search_result&extra_params=%7B%22search_id%22%3A%22202107011734280102120530810300ADC5%22%2C%22search_result_id%22%3A%226963242690855062815%22%2C%22search_type%22%3A%22video%22%2C%22search_keyword%22%3A%22%E5%88%98%E5%93%94%E7%94%B5%E5%BD%B1%22%7D)
+
+
 **不同于电影解说，单月涨粉30w，三月100w，可考虑搬运**
 
 水印：大部分有，四角，可放大处理，难度中等，可搬运  
@@ -37,7 +35,6 @@
 是否机器声：否  
 本月涨粉：30w  
 粉丝量：100w  
-![](IMG_1222.png)
 
 ### [妖梦电影](https://www.douyin.com/video/6972465216734989601?previous_page=others_homepage)
 **转型成功的案例
@@ -48,5 +45,11 @@
 是否机器声：否。声音好听  
 本月涨粉：30w  
 粉丝量：170w  
-![](IMG_1223.png)
-![A9D9923D-3154-438A-8AC6-E872793B4F01](/assets/A9D9923D-3154-438A-8AC6-E872793B4F01.png )
+
+| 对标账号  | 水印裁剪难度 | 特点 | 是否使用|
+| - | - | - |-|
+| [影视百科秀](https://www.douyin.com/user/MS4wLjABAAAASGTKYzl-BVROAYX_5-RNtYGfLe4IkCJshuPYQ2vRoUvhVaw_BNm76LhdJAlyFUs6?extra_params=%7B%22search_id%22%3A%2220210701165638010211178085283D170B%22%2C%22search_result_id%22%3A%222541666561965256%22%2C%22search_keyword%22%3A%22%E5%BD%B1%E8%A7%86%E7%99%BE%E7%A7%91%E7%A7%80%22%2C%22search_type%22%3A%22user%22%7D&enter_method=search_result&enter_from=search_result) | 无 | 减少强化 |否|
+| [止戈电影](https://www.douyin.com/user/MS4wLjABAAAA8PXwaC9uh3jxkRhwT11lkcM5l3f_SYdDh3eb01qi-YI?enter_method=video_title&author_id=75379708557&group_id=6979198638698417421&log_pb=%7B%22impr_id%22%3A%22021625130908314fdbddc0100fff0030a124c860000000bfeef54%22%7D&enter_from=video_detail)    | 无 | 增加惩罚 |
+| [老白影视](https://www.douyin.com/video/6958257561179131166?previous_page=others_homepage)        | 低 | 增加惩罚 |
+| [刘哔电影](https://www.douyin.com/video/6963242690855062815?previous_page=search_result&extra_params=%7B%22search_id%22%3A%22202107011734280102120530810300ADC5%22%2C%22search_result_id%22%3A%226963242690855062815%22%2C%22search_type%22%3A%22video%22%2C%22search_keyword%22%3A%22%E5%88%98%E5%93%94%E7%94%B5%E5%BD%B1%22%7D)        | 中 | 增加惩罚 |
+| [妖梦电影](https://www.douyin.com/video/6972465216734989601?previous_page=others_homepage)          | 低 | 增加惩罚 |
